@@ -5,6 +5,9 @@ Matrícula: 2227
 IA utilizada foi o ChatGPT, segue os prompts:
 
 EU ANEXEI UMA PRINT DO UML E DAS ESPECIFICAÇÕES DO PROJETO
+
+
+
 olha irmao eu tenho que fazer isso aí, vai me dando o guia pq eu to perdido, mas tenta me me falar so o basico pra eu conseguir fazer com oq eu to pensando, so me da os passo a passo e o pq das coisas, pq eu me perdi um pouco na materia, da uma de professor aí
 
 Beleza, agora vou te guiar como um professor mesmo, passo a passo, sem te dar tudo mastigado — pra você conseguir fazer e entender 👍
@@ -233,6 +236,9 @@ Se quiser, me manda:
 👉 “to travado na classe X”
 que eu te ajudo só naquela parte (estilo monitor mesmo 😄)
 
+
+
+
 como que eu faço pra importar uma classe com tudo que tem nela de outro pacote? não precisa declarar dnv ne
 
 Boa pergunta — isso acontece direto 👍
@@ -282,6 +288,9 @@ Só funciona se os pacotes estiverem corretos
 👉 Só dá um import e usa normalmente
 
 Se quiser, posso te mostrar um exemplo com duas classes do seu projeto se comunicando 👍
+
+
+
 
 quando que eu uso um objeto dentro de outro? e como que eu sei qq eu adiciono antes de cada um
 
@@ -363,6 +372,9 @@ cliente.pc.addHardware(...); // ERRO
 ✔ Segue a hierarquia
 
 Se quiser, posso te fazer um desenho mental do seu projeto (tipo UML simplificado) que ajuda MUITO a entender 👍
+
+
+
 
 qq eu coloco dentro do construtor e como q eu sei q eu preciso de setter e getter?
 
@@ -467,6 +479,9 @@ Se quiser, posso olhar suas classes e te falar:
 👉 “esse getter aqui tá sobrando”
 👉 “esse setter aqui nem precisava” 😄
 
+
+
+
 como eu vou adicionar um objeto dentro de um array que está em outra classe?
 
 Boa — essa dúvida é MUITO comum e cai direto em prova 👀
@@ -545,6 +560,9 @@ if(pcs[i] == null)
 ✔ adiciona
 
 Se quiser, posso te mostrar como fazer remover ou contar elementos do array também 👍
+
+
+
 
 como q eu vou percorrer esse array e chamar ele depois?
 
@@ -625,6 +643,9 @@ Cliente → tem array → percorre → usa cada objeto
 Se quiser, posso te mostrar como:
 👉 contar quantos PCs o cliente comprou
 👉 ou limitar quantidade de compra (fica bem profissional) 😄
+
+
+
 
 me ajuda a criar um menu bonitinho e visualmente interativo, to tentando fazer igual eu fazia em c++ mas é diferente
 
@@ -712,6 +733,9 @@ foco é lógica, não interface
 ✔ usa loop
 
 Se quiser, posso deixar seu menu nível top (com contador de itens no carrinho tipo loja mesmo) 😄
+
+
+
 
 como eu consigo somar os valores dentro de um array? e como que eu retorno um valor de um método com isso
 
